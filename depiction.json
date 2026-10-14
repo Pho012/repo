@@ -7,14 +7,11 @@
       "views": [
         {
           "class": "DepictionImageView",
-          "url": "https://raw.githubusercontent.com/Pho012/repo/main/IMG_0745.jpeg",
-          "width": 1000,
-          "height": 1500,
-          "cornerRadius": 10
+          "url": "BURAYA_RESMIN_RAW_LINKINI_YAZ"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Fast on-device face unlock and biometric authentication for jailbroken iOS 15+"
+          "markdown": "Buraya tweak'inin açıklamasını yazabilirsin."
         }
       ]
     }
