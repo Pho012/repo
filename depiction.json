@@ -7,7 +7,7 @@
       "views": [
         {
           "class": "DepictionImageView",
-          "url": "https://raw.githubusercontent.com/Pho012/repo/main/IMG_0723.jpeg"
+          "url": "https://raw.githubusercontent.com/Pho012/repo/main/IMG_0745.json"
         },
         {
           "class": "DepictionMarkdownView",
