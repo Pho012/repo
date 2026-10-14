@@ -144,20 +144,6 @@ SHA1: c021dd2a72d1bbae5a62baea8cf03719270a0f96
 SHA256: 33bee03d92ebcfd4b9a679b1cc90a192f7b8d7df9597da0458c16d28f0e50b89
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0726.jpeg
 
-Package: com.pho012.dynamicpeninsula-rootless
-Name: DynamicPeninsula
-Version: 1.1.5
-Architecture: iphoneos-arm64 
-Description: Add notch for older devices 
-Maintainer: Pho012
-Author: Pho012
-Section: Tweaks
-Filename: com.pho012.dynamicpeninsula-rootless_0.6-25_iphoneos-arm64.deb
-Size: 280844
-MD5: 7954fd50f1e450b93a1c5e06e7a3233f
-SHA1: 69eba59c7e228ceaf6ad8238a944a5c43c869df8
-SHA256: 7a237c6afeaac732d1482a44f6d0a54c5e49ccbd27ed75f362e128a8974382e9
-
 Package: com.jtis.little12
 Name: Little12(rootless)
 Version: 1.2.3
