@@ -189,7 +189,7 @@ SHA256: e15329f3dc9e320e56704b004909cf2a8d268c7dd872bdf27728e7f1fef0c0e8
 
 Package: com.pho012.faceidx
 Name: Faceİdx
-Version: 1.0.4
+Version: 1.0.4-1beta
 Architecture: iphoneos-arm64
 Description: Fast on-device face unlock and biometric authentication for jailbroken iOS 15+
 Maintainer: Bvn
