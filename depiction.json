@@ -7,7 +7,7 @@
       "views": [
         {
           "class": "DepictionImageView",
-          "url": "BURAYA_RESMIN_RAW_LINKINI_YAZ"
+          "url": "https://raw.githubusercontent.com/Pho012/repo/main/IMG_0723.jpeg"
         },
         {
           "class": "DepictionMarkdownView",
