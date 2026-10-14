@@ -201,8 +201,8 @@ MD5: 084ab91fd6d936b4ab5ccb6e9f9b7d1e
 SHA1: eed085e6a61c72d6879be00c383317fbcf1d4105
 SHA256: 848cdd85497b0581ce055be9bbee056d60112340506fde5732eb622faa9d139e
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0723.jpeg
-Depiction: https://pho012.github.io/repo/depiction.json
-Sileodepiction: https://pho012.github.io/repo/depiction.json
+Depiction: https://pho012.github.io/repo/depiction.json/IMG_0745.json
+Sileodepiction: https://pho012.github.io/repo/depiction.json/IMG_0745.json
 
 Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
 Name: MagSafe Enabler (rootless)
