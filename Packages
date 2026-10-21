@@ -35,7 +35,7 @@ Architecture: iphoneos-arm64
 Description: trollstore
 Maintainer: Pho012
 Author: Pho012
-Section: Tweaks
+Section: Application
 Filename: com.opa334.trollstorehelper_2.1.1_iphoneos-arm64.deb
 Size: 1915740
 MD5: 9119ca4ad6f9b355904af50db5b40d0c
@@ -45,7 +45,7 @@ Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0210.png
 
 Package: com.pho012.cc26
 Name: CC26
-Version: 1.0.9
+Version: 1.0.7
 Architecture: iphoneos-arm64
 Description: İos 26 control center
 Maintainer: Pho012
@@ -67,7 +67,7 @@ Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
 Filename: com.pho012.26home_1.1.7_iphoneos-arm64.deb
-Size: 20396283
+Size: 20396284
 MD5: e5fbd60d6f3bc1ea9ac4ae8036916e55
 SHA1: 7f0ba8aeecb8eefdfc47f2a45cbaa7b0da6f6d68
 SHA256: b80a8bf505467d0fe50e37115a3e01a4837ac9aa5d40f5721a7dd10fc791cedc
