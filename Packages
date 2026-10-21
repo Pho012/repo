@@ -262,3 +262,33 @@ Size: 40656
 MD5: 355ba165b512c829c01ace6384d36098
 SHA1: ea30f62db21ae6e2bb4828a1d8aa703599e0a50d
 SHA256: d67988baf36b4c5ef0ac6583ab40ec189fb353b39f99fc5d7d715e5f9e86a8d9
+
+Package: com.pho012.ccaster
+Name: CCaster
+Version: 0.0.2-1+ios17test1
+Architecture: iphoneos-arm64
+Descriotion: Customize your control center
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Depends: firmware (>= 14.0), firmware (<< 18.0), ellekit, preferenceloader
+Filename: com.pho012.ccaster_0.0.2-1+ios17test1_iphoneos-arm64.deb
+Size: 387384
+MD5: 076d4e4a83e93131d9eb016e48d23f8d
+SHA1: 3f5dfd5c57451a1ff9b9c1ac8196e31c06db5a09
+SHA256: 0b46e6b4e254fc866cea61f897793c3a3a4798a02e711cebab56bd167f75a649
+
+Package: com.jtis.batteryinfo
+Name: Batteryİnfo
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Description: 
+Maintainer: developlab
+Author: developlab
+Section: Tweaks
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0)
+Filename: com.jtis.batteryinfo_1.1.8_iphoneos-arm64.deb
+Size: 123396
+MD5: 4002de1bfcf7dbf9c56ee87a7af6c6c5
+SHA1: 931701b86dd7b72a8ed0e6f0bceb100b4c4fecf9
+SHA256: b98801fa5fe909d8e30ae08b223a94d53177c604233bf49bebe46d7956384a80
