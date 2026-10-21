@@ -247,3 +247,18 @@ MD5: 6430ae074cf0aefea7d13ea3adb4b9f7
 SHA1: 6ae8fbf159d1a6b4554c11e1aa754862a51899f8
 SHA256: 962d7af1ea58dff44cc3cc4896533865b18aca10d1ac30cc8d7d8516cd781b9a
 Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+
+Package: com.pho012.blursearch
+Name: Blursearch
+Version: 1.0.3-1+debug
+Architecture: iphoneos-arm64
+Description: İos settings search bar
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename:com.pho012.blursearch_1.0.3-1+debug_iphoneos-arm64.deb
+Size: 40656
+MD5: 355ba165b512c829c01ace6384d36098
+SHA1: ea30f62db21ae6e2bb4828a1d8aa703599e0a50d
+SHA256: d67988baf36b4c5ef0ac6583ab40ec189fb353b39f99fc5d7d715e5f9e86a8d9
