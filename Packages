@@ -231,3 +231,19 @@ MD5: 5e8b8a35e943941e9e3e4a06afccbc0a
 SHA1: a7d53edf6dda4cbd2c935ded4e628713223ec121
 SHA256: 0ccb15fa7c4b28ff28f7d670c2234d4fc31395dc039d75c08a596f386841c702
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0729.jpeg
+
+Package: xyz.willy.zebra
+Name: Zebra
+Version: 1.1.37
+Architecture: iphoneos-arm64
+Description: A Useful Package Manager
+Maintainer: Zebra team
+Author: Zebra team 
+Section: Packaging
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: xyz.willy.zebra_1.1.37_iphoneos-arm64.deb
+Size: 4139726
+MD5: 6430ae074cf0aefea7d13ea3adb4b9f7
+SHA1: 6ae8fbf159d1a6b4554c11e1aa754862a51899f8
+SHA256: 962d7af1ea58dff44cc3cc4896533865b18aca10d1ac30cc8d7d8516cd781b9a
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
