@@ -295,7 +295,7 @@ SHA256: b98801fa5fe909d8e30ae08b223a94d53177c604233bf49bebe46d7956384a80
 
 Package: com.pho012.duoeffect
 Name: Duo-Effect
-Version: 
+Version: 1.3.0-1+debug
 Architecture: iphoneos-arm64
 Description: A custom duo effect 
 Maintainer: Pho012
