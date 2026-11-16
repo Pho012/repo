@@ -323,9 +323,9 @@ Section: Tweaks
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
 Filename: com.xsxs18.tweakpilot_1.2.2_iphoneos-arm64.deb
 Size: 39428
-MD5: ce89716b6114a64014fba196bf94304c
-SHA1:1a814fa2eff86278230d2a7769cf8f77a57b4962
-SHA256: 87c392e2cf14ad75f64ee801dda527208f9bcfb2f2341618c754f211de9aeeb2
+MD5: 82470eba24d66bb58aa04cbf11384c4a
+SHA1: ae299c77ee6b7311389adafe27e9d9f9ae01672e
+SHA256: f25d8688f87c1646e9571bafcf0a4b9fde29d769f367c4791e59ba9876836434
 
 Package: com.samuel.r3v4mp
 Name: R3v4mp (rootless)
@@ -340,3 +340,19 @@ Size: 8851756
 MD5: da2b39ed754bedb41dd169d2c0999304
 SHA1: 31f6249538abbdabce184b303ff8e0b6a64992aa
 SHA256: a35a81ec24b9439801cebb8204751f5293f8cf6aa03d8cb90e8f611193b790c3
+
+Package: com.jtis.xuanhua120hz
+Name: Xuanhua120hz
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Description: Tinh chỉnh tốc độ làm mới 120Hz miễn phí có thể giúp giảm mức tiêu thụ pin do điều chỉnh động tốc độ làm mới. Đảm bảo rằng phần cứng thiết bị của bạn hỗ trợ 120Hz.
+ - Lưu ý: Tinh chỉnh này có thể không tương thích với tất cả các phiên bản iOS, tùy thuộc vào việc triển khai nội bộ của hệ thống.
+Maintainer: Huayuarc
+Author: Huayuarc
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: com.jtis.xuanhua120hz_0.0.4_iphoneos-arm64.deb
+Size: 4012
+MD5: c5b43d725135996f71f8f68c911b4907
+SHA1: 3ae4be570952b7bccbaf992cba28b09a2670e579
+SHA256: c8b2e261397181af418ca4ac3ba2ddc6a15e2980086c2e8f561d619b5fc4dc05
