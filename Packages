@@ -99,7 +99,7 @@ Size: 28364
 MD5: 0962e93fd843be06c09384ac081e2710
 SHA1: b2fc8089f2163fa2464faa4f3309a12c9ab8a740
 SHA256: c41f18bc8a5a3dd7f4cc03c5f8154fd903995e3a054fae1968d7bce86528b7b1
-Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0209.jpg
+Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0209.jpeg
 
 Package: com.ethxnn88.visibleisland
 Name: Visiable (Is)land 26
@@ -115,7 +115,7 @@ Size: 981192
 MD5: 397352dd9edaaedddec6ea9c2082529e
 SHA1: 528dc1d1b862215a0caf0f6963f794d0c5c9cb38
 SHA256: 7814e38fdb5c5bc8ef033d7da93af6b98745f1662edbf039a5c92de7ed2c1b3c
-Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0209.jpg
+Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0209.jpeg
 
 Package: com.pho012.dynamicisland
 Name: Dynamicİsland
@@ -130,7 +130,7 @@ Size: 11384
 MD5: 205864934031519cb215d0adb7fd7e92
 SHA1: e57f7ec6836be8a71bff7903c0a7c4b2e30f9432
 SHA256: 8823011578dde10e06c0bdb3d39875294a101b776452d1457f33dd3b51ae6326
-Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0209.jpg
+Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0209.jpeg
 
 Package: com.pho012.liquiddynamicisland
 Name: LiquidDynamic İsland
@@ -322,7 +322,7 @@ Author: xsxs18-dev
 Section: Tweaks
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
 Filename: com.xsxs18.tweakpilot_1.2.2_iphoneos-arm64.deb
-Size: 39246
+Size: 39428
 MD5: ce89716b6114a64014fba196bf94304c
 SHA1:1a814fa2eff86278230d2a7769cf8f77a57b4962
 SHA256: 87c392e2cf14ad75f64ee801dda527208f9bcfb2f2341618c754f211de9aeeb2
