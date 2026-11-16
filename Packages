@@ -203,21 +203,6 @@ SHA1: eed085e6a61c72d6879be00c383317fbcf1d4105
 SHA256: 848cdd85497b0581ce055be9bbee056d60112340506fde5732eb622faa9d139e
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0723.jpeg
 
-Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
-Name: MagSafe Enabler (rootless)
-Version: 4.0
-Architecture: iphoneos-arm64 
-Description: mag safe effect to older devices
-Maintainer: Pho012
-Author: Pho012
-Section: Tweaks
-Filename: com.tomaszpoliszuk.lockscreenbatterymagsafe_4.0_iphoneos-arm64.deb
-Size: 4764
-MD5: 2a957d03947dd848430cf48565a8393c
-SHA1: f5522e6b3b90651349e71898f552e5a26754200a
-SHA256: 21596bcc4cbfdebd037c0fea96cb6e12472869a063eca994fd5faa5d6f064c80
-Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0728.jpeg
-
 Package: com.icraze.gestures15
 Name: Gesture15 (rootless)
 Version: 1.0
