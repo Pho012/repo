@@ -14,7 +14,7 @@ SHA256: b727ac4881954f4504d8a9a75fb2106e11f406dd4ccf2a3dddb732c6dabc2871
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0045.jpeg
 
 Package: com.searchglass-rootless
-Name: SearchGlass
+Name: SearchGlass (rootless)
 Version: 1.0.4
 Architecture: iphoneos-arm64
 Description: added new controls
@@ -100,9 +100,24 @@ MD5: 0962e93fd843be06c09384ac081e2710
 SHA1: b2fc8089f2163fa2464faa4f3309a12c9ab8a740
 SHA256: c41f18bc8a5a3dd7f4cc03c5f8154fd903995e3a054fae1968d7bce86528b7b1
 
+Package: com.ethxnn88.visibleisland
+Name: Visiable (Is)land 26
+Version: 1.0.0-beta
+Architecture: iphoneos-arm64
+Description: Bao gồm các tính năng gốc của Visiable Island. Thêm hiệu ứng mở khoá ứng dụng Face ID trên Dynamic Island, hoạt ảnh Face ID ở màn hình khoá, animation đèn pin, animation pin yếu. Hỗ trợ iOS 16.0 – 16.7.x.
+Maintainer: Sleeper2009 ethxnn88
+Author: Sleeper2009 etxhnn88
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: com.ethxnn88.visibleisland_1.0.0-beta_iphoneos-arm64.deb
+Size: 981192
+MD5: 397352dd9edaaedddec6ea9c2082529e
+SHA1: 528dc1d1b862215a0caf0f6963f794d0c5c9cb38
+SHA256: 7814e38fdb5c5bc8ef033d7da93af6b98745f1662edbf039a5c92de7ed2c1b3c
+
 Package: com.pho012.dynamicisland
 Name: Dynamicİsland
-Version: 2.5.0.1
+Version: 2.0.5
 Architecture: iphoneos-arm64
 Description: ios 16.7.16 dynamic island
 Maintainer: Pho012
@@ -204,7 +219,7 @@ SHA256: 21596bcc4cbfdebd037c0fea96cb6e12472869a063eca994fd5faa5d6f064c80
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0728.jpeg
 
 Package: com.icraze.gestures15
-Name: Gesture15
+Name: Gesture15 (rootless)
 Version: 1.0
 Architecture: iphoneos-arm64
 Description: X Gestures for older devices
@@ -218,7 +233,7 @@ SHA1: 5246f9d68065817fa1959deaf44d6d0d7ddf31ae
 SHA256: d309ca1bbcf7fef14a2912f74c81a866913221286636d6884ba35d9ce0a9df13
 
 Package: com.jtis.cc18
-Name: CC18
+Name: CC18 (rootless)
 Version: 0.0.3
 Architecture: iphoneos-arm64
 Description: İos 18 Control Center to old phones
@@ -279,7 +294,7 @@ SHA1: 3f5dfd5c57451a1ff9b9c1ac8196e31c06db5a09
 SHA256: 0b46e6b4e254fc866cea61f897793c3a3a4798a02e711cebab56bd167f75a649
 
 Package: com.jtis.batteryinfo
-Name: Batteryİnfo
+Name: Battery İnfo
 Version: 1.1.8
 Architecture: iphoneos-arm64
 Description: 
@@ -294,7 +309,7 @@ SHA1: 931701b86dd7b72a8ed0e6f0bceb100b4c4fecf9
 SHA256: b98801fa5fe909d8e30ae08b223a94d53177c604233bf49bebe46d7956384a80
 
 Package: com.pho012.iphoneduoeffect
-Name: İphoneDuoEffect
+Name: İphoneDuoEffect (rootless)
 Version: 1.3.0-FIXED-1+debug
 Architecture: iphoneos-arm64
 Description: A custom duo effect 
@@ -307,3 +322,32 @@ Size: 9416
 MD5: 6595e07608b17800b06cb9b71c98ae0d
 SHA1: 01d3601c5e67b6e9adc69690a2bf8e8f7da81a58
 SHA256: e6a745609a4df613104688cf2a32f72cf5d79b88b8ba370a88d68ec9f5f11591
+
+Package: com.xsxs18.tweakpilot
+Name: TweakPilot
+Version: 1.2.2-build22
+Architecture: iphoneos-arm64
+Description: Floating control panel for your tweaks, device stats and quick actions.
+Maintainer: xsxs18-dev
+Author: xsxs18-dev
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: com.xsxs18.tweakpilot_1.2.2-build22_rootless
+Size: 39246
+MD5: ce89716b6114a64014fba196bf94304c
+SHA1:1a814fa2eff86278230d2a7769cf8f77a57b4962
+SHA256: 87c392e2cf14ad75f64ee801dda527208f9bcfb2f2341618c754f211de9aeeb2
+
+Package: com.samuel.r3v4mp
+Name: R3v4mp (rootless)
+Version: 2.0.58
+Architecture: iphoneos-arm64
+Description: R3v4mp - iOS 18 / iOS 26 style Settings: banners, Apps section, redesigned pane. iOS 13 and later.
+Maintainer: Samuel
+Author: Samuel
+Section: Tweaks
+Filename: com.samuel.r3v4mp_2.0.58_iphoneos-arm64.deb
+Size: 8851756
+MD5: da2b39ed754bedb41dd169d2c0999304
+SHA1: 31f6249538abbdabce184b303ff8e0b6a64992aa
+SHA256: a35a81ec24b9439801cebb8204751f5293f8cf6aa03d8cb90e8f611193b790c3
