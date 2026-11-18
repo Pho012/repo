@@ -432,3 +432,17 @@ Size: 21132
 MD5: 7876dc9d47f0775fa538159533b200cc
 SHA1: 7839bde34c64618a174dc747ea097eb91bf4edaa
 SHA256: baff93cc907904f5b976364a04efc48e159d9dcb8272e5dc25941a1cd1687f45
+
+Package: com.pho012.voidmusic
+Name: VoidMusic
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Description: offline music player
+Maintainer: Pho012
+Author: Pho012
+Section: Music
+Filename: com.pho012.voidmusic_2.1.0_iphoneos-arm64.deb
+Size: 40336
+MD5: 146cdd4c6b08a78b2383f61213200faa
+SHA1: 3bd0107554df21b51e6dd02370edd81f17240b39
+SHA256: 72edab9c5053af5fa363e3b623dfe55084c1f6eee4198166c60be679d1b90c99
