@@ -446,3 +446,61 @@ Size: 40336
 MD5: 146cdd4c6b08a78b2383f61213200faa
 SHA1: 3bd0107554df21b51e6dd02370edd81f17240b39
 SHA256: 72edab9c5053af5fa363e3b623dfe55084c1f6eee4198166c60be679d1b90c99
+
+Package: iya.banana.billie.ambientbadge
+Name: AmbientBadge
+Version: 0.1.16K
+Architecture: iphoneos-arn64
+Description: Thêm hiệu ứng kính và ánh sáng dịu nhẹ cho biểu tượng huy hiệu thông báo trên màn hình chính.
+Maintainer: Banana
+Author: Banana
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+SileoDepiction: https://jtisvn.github.io/sileodepictions/AmbientBadge.json
+Depiction: https://jtisvn.github.io/depictions/AmbientBadge.html
+icon: https://huayuarc.github.io/icon/AmbientBadge.png
+İnstalled-Size: 748
+Filename: iya.banana.billie.ambientbadge_0.1.16k_iphoneos-arm64
+Size: 117444
+MD5: 757af9b11e5cd12501f3155d42ed3bb2
+SHA1: d99ed84972de578a7794c2281788e22e7c3ff8d2
+SHA256: cb03078947c0e7cbd65db69d73ed389f5abd018cae2f12bd86443da0b3554454
+
+Package: iya.iapple.siri
+Name: LiquidSiri
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Description: İos 27 Liquid siri to old devices
+Maintainer: Thijs mussig
+Author: Thijs mussing,banana
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourcompany.liquidsiri
+Replaces: com.yourcompany.liquidsiri
+Depiction: https://jtisvn.github.io/depictions/LiquidSiri.html
+Icon: https://iyaway.github.io/depictions/iya.iapple.siri/icon.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/LiquidSiri.json
+Filename: iya.iapple.siri_1.1.4_iphoneos-arm64.deb
+Size: 1003338
+MD5: ec22566672dd84185bd2b2851a7efe8f
+SHA1: c037f5729c34e611270799e212ae909fc9117d56
+SHA256: 6fc60682c412b9a08d8eabcde575321e86f8d418b80c5aade8dd409117d11909
+
+Package: moe.waru.jikan
+Name: Jikan
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Description: Hiển thị thời gian còn lại để sạc đầy pin trên màn hình khóa.
+Maintainer: waruhaci
+Author: waruhaci
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depiction: http://jtisvn.github.io/depiction/Jikan.html
+Icon: https://jtisvn.github.io/sectionIcons/Jikan.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Jikan.json
+İnstalled-Size: 2700
+Filename: moe.waru.jikan_1.1.0_iphoneos-arm64.deb
+Size: 394736
+MD5: a1d5fde4f09c5b2538a1e176e9b73e09
+SHA1: ba3334006f701a02b33019a1fa321f6f7b460c3c
+SHA256: 7580a2fde56eaef64b1223177c471c892c3cd2648316fd8399fc4222b5159f2e
