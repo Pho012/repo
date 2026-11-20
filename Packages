@@ -162,21 +162,6 @@ SHA1: c021dd2a72d1bbae5a62baea8cf03719270a0f96
 SHA256: 33bee03d92ebcfd4b9a679b1cc90a192f7b8d7df9597da0458c16d28f0e50b89
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0726.jpeg
 
-Package: com.jtis.little12
-Name: Little12(rootless)
-Version: 1.2.3
-Architecture: iphoneos-arm64
-Description: İphone X gestures
-Maintainer: JTİSVN Repo
-Author: Ryan Nair
-Section: Tweaks
-Filename: com.jtis.little12_1.2.3_iphoneos-arm64.deb
-Size: 226880
-MD5: b913d423bb65dac64e4532e200be10ec
-SHA1: ec8ec6aae1ff50efb501b2b63759cced43839b0e
-SHA256: 90b89fe9226596cd6f5a71f4d69eab027a897a90d34816e88c9ad1a84ea14d22
-İcon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0724.jpeg
-
 Package: com.pho012.squidgesturepro.rl
 Name: SquidGesturePro
 Version: 2.7.6K
@@ -504,3 +489,88 @@ Size: 394736
 MD5: a1d5fde4f09c5b2538a1e176e9b73e09
 SHA1: ba3334006f701a02b33019a1fa321f6f7b460c3c
 SHA256: 7580a2fde56eaef64b1223177c471c892c3cd2648316fd8399fc4222b5159f2e
+
+Package: apt
+Name: apt
+Version: 2.9.4-1
+Architecture: iphoneos-arm64
+Description: commandline package manager
+ This package provides commandline tools for searching and
+ managing as well as querying information about packages
+ as a low-level access to all features of the libapt-pkg library.
+Maintainer: Procursus Team <support@procurs.us>
+Author: Procursus Team <support@procurs.us>
+Section: Packaging
+Priority: required
+Pre-Depends: dpkg (>= 1.14.25-8), system-cmds (>= 854.40.2-2)
+Depends: libiosexec1 (>= 1.3.1), libapt-pkg6.0 (= 2.9.4-1), libgnutls30, gpgv, dpkg (>= 1.19.0), coreutils, procursus-keyring
+Replaces: apt1.8, apt1.4, libapt, libapt-pkg5.0, apt-lib, apt-key
+Conflicts: apt7 (<<1:0), apt1.4 (<<1:0), apt1.8, libapt-pkg5.0 (<<1:0), libapt (<<1:0), apt-key (<<1:0)
+Provides: apt1.8 (= 1:0), apt-lib (= 1:0), libapt (=1:0), apt-key (= 1:0)
+Filename: apt_2.9.4-1_iphoneos-arm64.deb
+Size: 1417374
+MD5: 16464e0be44b547eda8e6a54a1dd7a58
+SHA1: fb94ac54395a5cdc3cb801cfb83d1a460baf5cd1
+SHA256: 909670f0b0dcc445c6540e7c58a89c219f11d1a187e13c0a67726463036f33c5
+
+Package: apt-file
+Name: apt-file
+Version: 3.3
+Architecture: all
+Description: Description: search for files within Debian packages (command-line interface)
+ apt-file is a command line tool for searching files contained in packages
+ for the APT packaging system. You can search in which package a file is
+ included or list the contents of a package without installing or fetching it.
+Maintainer: Procursus Team <support@procurs.us>
+Author: Procursus Team <support@procurs.us>
+Section: Packaging
+Priority: optional
+Filename: apt-file_3.3_all.deb
+Size: 18568
+MD5: d69cdb4a378412ed096d93f18dd57ed7
+SHA1: c280f950b8c5637dcb66e06a4e268a52b286d7dc
+SHA256: 95e9eab6e9d185acb5b373e1fd3849859500a66e0b3c9c40e3475caeaf1504c8
+
+Packaging: apt-rdepends
+Name: apt-rdepends
+Version: 1.3.0
+Architecture: iphoneos-arm64
+Description: Description: recursively lists package dependencies
+  This utility can recursively list package dependencies, either forwards or in reverse. 
+  It also lists forward build-dependencies. The output format closely resembles that of `apt-cache depends`. 
+  As well, it can generate .dot graphs, much like apt-cache in dotty mode. 
+Maintainer: Procursus Team <support@procurs.us>
+Author: Procursus Team <support@procurs.us>
+Section: Packaging
+Depends: libapt-pkg-perl, perl
+Filename: apt-rdepends_1.3.0_iphoneos-arm64.deb
+Size: 17444
+MD5: b296b7c7dcea6c4f08942fd40634bb80
+SHA1: 82a4be7127ff050f78eadaae1f47f63bb69e009e
+SHA256: d4ac7777f14e88e21013507a8fde8d264ab18a2f9f314b3ceabbacfee19e09f7
+
+Package: apt-utils
+Name: apt-utils
+Version: 2.9.4-1
+Architecture: iphoneos-arm64
+Description: package management related utility programs
+ This package contains some less used commandline utilities related
+ to package management with APT.
+ .
+  * apt-extracttemplates is used by debconf to prompt for configuration
+    questions before installation.
+  * apt-ftparchive is used to create Packages and other index files
+    needed to publish an archive of Debian packages
+  * apt-sortpkgs is a Packages/Sources file normalizer.
+Maintainer: Procursus Team <support@procurs.us>
+Author: Procursus Team <support@procurs.us>
+Section: Packaging
+Priority: standard
+Depends: libiosexec1 (>= 1.3.1), apt (=2.9.4-1), libdb18.1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Conflicts: apt7 (<<1:0), apt1.4 (<<1:0), apt (<<2.0.0)
+Filename: apt-utils_2.9.4-1_iphoneos-arm64
+Size: 326356
+MD5: 4c49d036af72c15b14e64c6bf334dc8f
+SHA1: 8eb38b3c74f405f62304bb6e6215569fa3051b09
+SHA256: 733afba0660b221122f8a8456a74ffcb3b26e588f2e7c41ad0b5d7f5104668eb
