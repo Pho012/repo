@@ -607,7 +607,7 @@ Maintainer: Pho012
 Author: Pho012
 Section: Tweak
 Depends: mobilesubstrate, prefenceloader
-Filename: com.pho012.fakeupdate_1.0.0-2+debug
+Filename: com.pho012.fakeupdate_1.0.0-2+debug_iphoneos-arm64.deb
 Size: 355552
 MD5: e9b0571c91a5628416aba1a03b1a6810
 SHA1: 2075306a74bdafe02c3bdfdb862c38e232cc3b46
