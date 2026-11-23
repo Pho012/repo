@@ -605,8 +605,8 @@ Architecture: iphoneos-arm64
 Description: İos 26/27 fake update
 Maintainer: Pho012
 Author: Pho012
-Section: Tweak
-Depends: mobilesubstrate, prefenceloader
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
 Filename: com.pho012.fakeupdate_1.0.0-2+debug_iphoneos-arm64.deb
 Size: 355552
 MD5: e9b0571c91a5628416aba1a03b1a6810
